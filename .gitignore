@@ -1,2 +1,7 @@
- 
-kavya_portfolio
+ kavya_portfolio
+ __pycache__/
+*.pyc
+venv/
+.venv/
+db.sqlite3
+staticfiles/
